@@ -1,0 +1,12 @@
+Walkthrough video URL (3-5 minute Loom or YouTube, unlisted):
+
+[ADD YOUR VIDEO URL HERE BEFORE SUBMISSION]
+
+Suggested walkthrough outline:
+1. Login as Alice
+2. Create and format a document
+3. Import a .md file
+4. Share with Bob
+5. Login as Bob and edit the shared document
+6. Show owned vs shared lists
+7. Brief architecture + AI workflow mention
