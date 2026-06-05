@@ -91,7 +91,7 @@ A `render.yaml` blueprint is included for [Render](https://render.com). After co
 2. Gunicorn serves Flask (API + static frontend)
 3. Set `JWT_SECRET_KEY` in environment variables
 
-**Live URL:** _(add your deployment URL here before submission)_
+**Live URL:** = **https://ajaia-collaborative-docs.onrender.com**
 
 ## Supported File Types
 

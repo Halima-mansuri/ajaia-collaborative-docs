@@ -7,6 +7,7 @@
 
 - **Cursor IDE** (Claude-based agent) — primary coding assistant for scaffolding, implementation, and iteration
 - **Built-in terminal** — running pytest, npm, and Flask locally to verify behavior
+- **Chatgpt** - AI coding assistant for debugging, implmentation and testing 
 
 ## Where AI Materially Sped Up Work
 
